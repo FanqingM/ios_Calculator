@@ -1,8 +1,8 @@
 //
-//  CalculatorApp.swift
-//  Calculator
+//  testApp.swift
+//  test
 //
-//  Created by FanqingM on 2021/5/16.
+//  Created by fanqing_m on 2021/5/16.
 //
 
 import SwiftUI
