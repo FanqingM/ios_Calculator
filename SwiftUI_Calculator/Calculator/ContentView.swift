@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Calculator
 //
-//  Created by Afraz Siddiqui on 3/5/21.
+//  Created by FanqingM on 2021/5/16.
 //
 
 import SwiftUI
