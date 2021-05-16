@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Calculator
+//  SwiftUI_Calculator
 //
-//  Created by FanqingM on 2021/5/16.
+//  Created by fanqing_m on 2021/5/16.
 //
 
 import SwiftUI
